@@ -1,4 +1,4 @@
-# Big-data-analytics-and-machine-learning-1
+# 유아용품 판매데이터를 통한 빅데이터 분석 및 머신러닝 모델링
 
 
 ![image](https://user-images.githubusercontent.com/114633462/225420864-95ad862a-671f-47d5-80f9-11685cd03e90.png)
